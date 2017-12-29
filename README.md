@@ -16,4 +16,4 @@ Using continuous integration & continuous delivery methods, we will deploy the v
 4. Codefresh pushes the new image to the Docker registry.
 5. Codefresh starts the deployment script that deploys the solution on Google Cloud.
 
-![](https://lh6.googleusercontent.com/MVNAe4XNLG2jxXxgRuY16jx823E7Os1uZMGqPn1Su1RFq1w07_x35qCD-WgGaxV8e84mqOPej6Qodyo28hh3=w3360-h1754)
+![](https://i.imgsafe.org/6b/6b5272f6ea.png)
